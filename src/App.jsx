@@ -23,6 +23,9 @@ function App() {
       <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
          submit
          </button>
+         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-5 rounded">
+         PRESS
+         </button>
      
     </>
   )
